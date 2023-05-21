@@ -9,4 +9,4 @@ Well, hello there! This is where I keep the software I write as well as the sour
 - 🤝 I am interested in collaborating with other writers at all stages in their career
 - ❤️‍🔥 I love to read fiction and I am an avid technologist
 - 🤖 I am an AI researcher, currently I am studying Large Language Models
-- 💁 I would 💕 to gues post on your blog or news site!
+- 💁 I would 💕 to guest post on your blog or news site!
