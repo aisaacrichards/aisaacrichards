@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hi there 👋
+## My name is Allen Isaac Richards and I am an aspiring author
+### I write short stories on #artificialintelligence
 
-<!--
-**aisaacrichards/aisaacrichards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌎 You can find my [www here](https://allenisaacrichards.com)
+- 🖋️ I write on [Medium](https://medium.com/@allenisaacrichards)
+- ✉️ You can email me at [allen.isaac.richards@gmail.com](mailto://allen.isaac.richards@gmail.com)
+- 🐦 I tweet my interests at [Twitter](https://twitter.com/aisaacrichards)
+- 🤝 I am interested in collaborating with other writers at all stages in their career
+- ❤️‍🔥 I love to read fiction and I am an avid technologist
+- 🤖 I am an AI researcher, currently I am studying Large Language Models
+- 💁 I would 💕 to gues post on your blog or news site!
