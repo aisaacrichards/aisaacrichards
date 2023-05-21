@@ -1,4 +1,4 @@
-# My name is Allen Isaac Richards and I am an aspiring author
+# I am an aspiring author working on mastering the craft of beautiful prose.
 
 Well, hello there! This is where I keep the software I write as well as the source code for my [excellent Hugo based blog](https://allenisaacrichards.com) where I write _**short stories**_ and _**news articles**_ about the intersection of Artificial Intelligence, and humanity - a topic I have been immersed in since I read my first Isaac (my namesake) Asimov story, "Mirror Image".
 
